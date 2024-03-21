@@ -18,6 +18,7 @@
 ## 🌱 I’m currently learning
 - #### 👨‍💻 Web Development (Bcak End)
 - #### 🕹️ Game Devlopment
+- #### 🌎 English
 <br>
 
 ## 📚 My Stacks
