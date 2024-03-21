@@ -13,46 +13,7 @@
 </div>
 
 
-## What I'm doing
-<div style = "display:flex">
-<div>
-<h3> 🌱 I’m currently learning </h3>
 
-- 👨‍💻 Web Development (Bcak End)
-    - MySQL
-    - MongoDB
-    - Node.js
-
-- 🕹️ Game Devlopment
-    - Unity
-    - C#
-</div>
-
-<div style = "margin:auto; margin-top:0px">
-<h3> 🤔 I’m looking for help with ... </h3>
-
-- What is good Code conventions
-- How to become a Back End developer
-- How to manage my Careers
-- great opportunity to improve myself
-
-
-</div>
-
-
-</div>
-
-
-<div style = "display:flex">
-<div>
-<h3> 📚 My Velog</h3>
-<a href = "https://velog.io/@youjacha082/posts">Yoo Seung Hwan's Velog</a>
-</div>
-<div style = "margin:auto">
-<h3> 💬 How to reach me: </h3>
-<div>seunghwan081@gmail.com </div>
-</div>
-</div>
 
 
 
