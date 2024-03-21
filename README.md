@@ -1,41 +1,69 @@
 ### Hi there 👋
 
-### 🎤 Introduce
+
+
+## 🎤 Introduce
+<div style = "display:flex">
+
 - 👨‍🎓 Student of Hongik University (Sejong)
 - 🔭 Study to become a Backend Devloper
 
-### 🌱 I’m currently learning 
+![Seunghwan Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dellyu03&show_icons=true&theme=react)
+
+</div>
+
+
+## What I'm doing
+<div style = "display:flex">
+<div>
+<h3> 🌱 I’m currently learning </h3>
 
 - 👨‍💻 Web Development (Bcak End)
+    - MySQL
+    - MongoDB
     - Node.js
-    - monoDB
-    - mySQL
+
 - 🕹️ Game Devlopment
     - Unity
     - C#
+</div>
 
+<div style = "margin:auto; margin-top:0px">
+<h3> 🤔 I’m looking for help with ... </h3>
 
-### 🤔 I’m looking for help with ...
-- Good Code conventions
+- What is good Code conventions
 - How to become a Back End developer
-
-### 📚 My Velog
-- [Yoo Seung Hwan's Velog](https://velog.io/@youjacha082/posts)
-
-###  💬 How to reach me: 
-- seunghwan081@gmail.com
-
-<details>
-<summary>접기/펼치기</summary>
-
-## hello
-dlaksjdf
-</details>
+- How to manage my Careers
+- great opportunity to improve myself
 
 
+</div>
 
 
-![Seunghwan Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dellyu03&show_icons=true&theme=react)
+</div>
+
+
+## How to contact me
+<div style = "display:flex">
+<div>
+<h3> 📚 My Velog</h3>
+<a href = "https://velog.io/@youjacha082/posts">Yoo Seung Hwan's Velog</a>
+</div>
+
+
+<div style = "margin:auto">
+<h3> 💬 How to reach me: </h3>
+<div>seunghwan081@gmail.com </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
 
 
 
