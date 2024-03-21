@@ -7,6 +7,8 @@
 
 - 👨‍🎓 Student of Hongik University (Sejong)
 - 🔭 Study to become a Backend Devloper
+- 🔮 I like new experiences
+
 
 ![Seunghwan Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dellyu03&show_icons=true&theme=react)
 
@@ -27,6 +29,10 @@
 ### Note with
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 
+## Conatact me with
+📫 seunghwan081@gmail.com 
+
+<a href = "https://velog.io/@youjacha082/posts">💬 Yoo Seung Hwan's Velog</a>
 
 
 
