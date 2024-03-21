@@ -43,14 +43,11 @@
 </div>
 
 
-## How to contact me
 <div style = "display:flex">
 <div>
 <h3> 📚 My Velog</h3>
 <a href = "https://velog.io/@youjacha082/posts">Yoo Seung Hwan's Velog</a>
 </div>
-
-
 <div style = "margin:auto">
 <h3> 💬 How to reach me: </h3>
 <div>seunghwan081@gmail.com </div>
