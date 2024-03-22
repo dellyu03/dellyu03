@@ -10,16 +10,10 @@
 - 🔮 I like new experiences
 
 
-![Seunghwan Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dellyu03&show_icons=true&theme=react)
+
+
 
 </div>
-<br>
-
-## 🌱 I’m currently learning
-- #### 👨‍💻 Web Development (Bcak End)
-- #### 🕹️ Game Devlopment
-- #### 🌎 English
-<br>
 
 ## 📚 My Stacks
 
@@ -30,6 +24,9 @@
 
 ### Note with
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
+<br>
+
+
 
 ## Conatact me with
 📫 seunghwan081@gmail.com 
