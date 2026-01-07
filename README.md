@@ -88,7 +88,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dellyu03&show_icons=true&theme=default&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브이름&layout=compact&theme=dracula)
+Top Langs
 </p>
 
 <p align="center">
