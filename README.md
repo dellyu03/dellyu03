@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing code designed for both people and systems</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dellyu03&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Dellyu03" />
+  <img src="https://avatars.githubusercontent.com/u/81600680?v=4&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Dellyu03" />
 </p>
 
 - 🔭 I'm currently working on [uphill](https://github.com/Dellyu03?tab=repositories)
