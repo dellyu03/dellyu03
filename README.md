@@ -19,6 +19,13 @@
 <a href="https://instagram.com/dev_0u0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_0u0" height="30" width="40" /></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=dellyu03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dellyu03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dellyu03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dellyu03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Tech Stack:</h3>
 
 <h4>Languages</h4>
@@ -95,5 +102,11 @@ Top Langs
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dellyu03&theme=github-light&hide_border=true" alt="Contribution Graph" />
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
