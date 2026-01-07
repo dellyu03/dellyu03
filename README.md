@@ -2,10 +2,10 @@
 <h3 align="center">Pursuing code designed for both people and systems</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dellyu03&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="dellyu03" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dellyu03&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Dellyu03" />
 </p>
 
-- 🔭 I’m currently working on [uphill](https://github.com/dellyu03?tab=repositories)
+- 🔭 I'm currently working on [uphill](https://github.com/Dellyu03?tab=repositories)
 
 - 🌱 I’m currently learning **FastAPI, Flutter**
 
@@ -80,19 +80,19 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dellyu03&show_icons=true&theme=default&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dellyu03&show_icons=true&theme=default&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellyu03&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dellyu03&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dellyu03&show_icons=true&theme=default&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dellyu03&show_icons=true&theme=default&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dellyu03&theme=github-light&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dellyu03&theme=github-light&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
