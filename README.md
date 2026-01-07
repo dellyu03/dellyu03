@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing code designed for both people and systems</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dellyu03&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Dellyu03" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dellyu03&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Dellyu03" />
 </p>
 
 - 🔭 I'm currently working on [uphill](https://github.com/Dellyu03?tab=repositories)
@@ -22,9 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dellyu03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dellyu03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dellyu03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dellyu03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Tech Stack:</h3>
 
